@@ -17,6 +17,7 @@ header h1 {
 header nav {
   display: flex;
   justify-content: center;
+  font-style: Montserrat;
 }
 
 header nav ul {
